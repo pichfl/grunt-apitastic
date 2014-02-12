@@ -1,7 +1,7 @@
 {
   "name": "grunt-apitastic",
   "description": "Generate JSON from HTML using CSS selectors.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/pichfl/grunt-apitastic",
   "author": {
     "name": "Florian Pichler",
@@ -18,7 +18,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/pichfl/grunt-apitastic/blob/master/LICENSE-MIT"
+      "url": "https://github.com/pichfl/grunt-apitastic/blob/master/LICENSE"
     }
   ],
   "engines": {
