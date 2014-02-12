@@ -75,5 +75,6 @@ Results in JSON files in the same directory structure as your HTML files, each c
 
 ## Release History
 
+* 0.1.1-1: Fixed fix. Yeah, sorry.
 * 0.1.1: Fixed initial failure
 * 0.1.0: Initial release.
